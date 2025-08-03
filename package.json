@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/imramkrishna/practiceRepo/issues"
   },
-  "homepage": "https://github.com/imramkrishna/practiceRepo#readme"
+  "homepage": "https://github.com/imramkrishna/practiceRepo#readme",
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
 }
